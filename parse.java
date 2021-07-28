@@ -1,5 +1,4 @@
-
-public class parse {
+public class parse { // Seed parsing method
 	static int parseInt(String s) {
 		try 
         { 
